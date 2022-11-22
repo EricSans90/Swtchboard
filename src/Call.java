@@ -52,7 +52,8 @@ public class Call {
                 ", destinationNumber=" + destinationNumber +
                 ", duration=" + duration +
                 ", band=" + band +
-                ", is local:" + local +
+                ", local/provincial= " + (local ? " Local " : " Provincial ") +
+                //", is local:" + local +
                 '}';
     }
 

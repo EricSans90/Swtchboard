@@ -1,4 +1,4 @@
-import java.util.Scanner;
+/*import java.util.Scanner;
 
 public class Exercise5 {
     public static void main(String[] args) {
@@ -53,3 +53,4 @@ public class Exercise5 {
         }
 
     }
+*/
